@@ -1,0 +1,9 @@
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\obj\Debug\balkezesek.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.GenerateResource.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\bin\Debug\balkezesek.exe.config
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\bin\Debug\balkezesek.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\bin\Debug\balkezesek.pdb
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\obj\Debug\balkezesek.Properties.Resource.resources
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\obj\Debug\balkezesek.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\obj\Debug\balkezesek.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Balkezesek konzol\balkezesek\balkezesek\obj\Debug\balkezesek.pdb
