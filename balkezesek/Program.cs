@@ -24,7 +24,7 @@ namespace balkezesek
         private static void Feladat4()
         {
             Console.WriteLine("4. feladat:");
-            adatok.FindAll(a => a.Utolso <Convert.ToDateTime("1999.11")&& a.Utolso>Convert.ToDateTime("1999.10")).ToList().ForEach(x => Console.WriteLine($"\t{x.Nev} {Math.Round(x.Magassag*2.54,2)} cm"));
+            adatok.Where(x=>x.Utolso.ToString("yyyy-MM").Contains("1999-10")).ToList().ForEach(x => Console.WriteLine($"\t{x.Nev} {Math.Round(x.Magassag * 2.54, 1)} cm"));
         }
         private static void Feladat5_6() 
         {
